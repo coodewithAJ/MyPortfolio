@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Nunito+Sans:wght@300&family=PT+Serif&family=Roboto+Slab:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Arima:wght@100&family=Kanit&family=Lobster&family=Nunito+Sans:wght@300&family=PT+Serif&family=Roboto+Slab:wght@400;800&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
